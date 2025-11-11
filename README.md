@@ -1,5 +1,9 @@
 # 症状メモ（Symptom Notes）
 
+AWS　Lambda側は、認証サーバと、OpenAIサーバのLmabdaが必要です。
+appleユーザをLambda側で認証しOpenAIAPIKey利用できる仕組みが必要です。
+MacBookで上記認証関係動作確認済みです。
+
 シンプルに「毎日テキストで症状を記録」し、AI による健康アドバイスを受けられる iOS アプリです。見た目と使い心地にこだわり、ハプティクスや控えめなサウンド演出を入れています。
 
 このリポジトリには Xcode でそのまま使える SwiftUI コード一式（SwiftDataベース）が入っています。Windows 上ではビルドできないため、後述の手順で Mac の Xcode に取り込んでください。
