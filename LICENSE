@@ -1,21 +1,45 @@
-MIT License
+Proprietary Software License
 
 Copyright (c) 2025 hayashikunita
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and associated documentation files (the "Software") are the proprietary 
+property of hayashikunita. The source code is provided for reference, educational, 
+and evaluation purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+RESTRICTIONS:
+
+1. COMMERCIAL USE PROHIBITED
+   You may NOT use this Software for any commercial purposes, including but not 
+   limited to:
+   - Publishing on app stores (Apple App Store, Google Play, etc.)
+   - Offering as a paid service or product
+   - Using in revenue-generating applications
+   - Monetization through advertisements, subscriptions, or in-app purchases
+
+2. MODIFICATION AND DISTRIBUTION
+   - You may NOT distribute, sublicense, or sell copies of the Software
+   - You may NOT create derivative works for commercial purposes
+   - You may NOT remove or alter any proprietary notices or labels
+
+3. PERMITTED USE
+   - Personal, non-commercial use for learning and evaluation purposes only
+   - Modification for personal use only (not for distribution)
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+COMMERCIAL LICENSING:
+For commercial use, including app store publication, enterprise deployment, or 
+monetization, please contact hayashikunita for a commercial license agreement.
+
+By using this Software, you agree to these terms and conditions.
