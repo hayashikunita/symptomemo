@@ -7,23 +7,21 @@
 ## スクリーンショット
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" width="200" alt="メイン画面">
-  <img src="screenshots/screenshot2.png" width="200" alt="メモ編集画面">
-  <img src="screenshots/screenshot3.png" width="200" alt="AI アドバイス画面">
-  <img src="screenshots/screenshot4.png" width="200" alt="設定画面">
-  <img src="screenshots/screenshot5.png" width="200" alt="PDF 共有画面">
+  <img width="200" alt="メイン画面" src="https://github.com/user-attachments/assets/93ca9685-9240-42b2-84a6-2854b5084276" />
+  <img width="200" alt="メモ編集画面" src="https://github.com/user-attachments/assets/7df8ea9a-e565-486a-abd0-612e07fc3b15" />
+  <img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-11 at 19 00 00_0" src="https://github.com/user-attachments/assets/c4ed9a4f-375a-42ea-916d-e4ef63a0305e" />
 </div>
 
 ## デモ動画
-
-<div align="center">
+<!-- <div align="center">
   <video width="300" controls>
     <source src="demo/demo.mp4" type="video/mp4">
     <a href="demo/demo.mp4">デモ動画を見る</a>
   </video>
-</div>
+</div> -->
 
-*画像と動画は `screenshots/` および `demo/` フォルダに配置してください。*
+https://github.com/user-attachments/assets/a3fed433-3fe3-4f94-af6f-26e12d9a835c
+
 
 ## 主要機能
 
